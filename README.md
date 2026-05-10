@@ -1,7 +1,9 @@
-python download.py 
+### download.py 
+python download.py -> all
 python download.py EURUSD 
 
-python convert.py   
+### convert.py
+python convert.py -> all
 python convert.py EURUSD 
 
 python download.py -> csv
